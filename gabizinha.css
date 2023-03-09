@@ -1,0 +1,14 @@
+.estilizaçaoheader
+{
+    background: cornflowerblue;
+    color:aqua
+    
+}
+ .imagem{
+    width: 20%;
+}
+.lista{
+display: inline-block;
+margin: 0 16px;
+}
+
