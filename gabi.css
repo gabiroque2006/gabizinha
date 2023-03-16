@@ -1,4 +1,22 @@
 .estilizaçaoheader
 {
-    background-color:
+    background: cornflowerblue;
+    color:aqua
+    
+}
+ .imagem{
+    width: 20%;
+}
+{p
+font-size:18px
+} 
+.paragrafo1 {
+    font-size: 30px
+}
+.paragrafos {
+    font-size: 16px
+}
+.LISTA{
+    display: inline-block;
+margin: 0 16px
 }
