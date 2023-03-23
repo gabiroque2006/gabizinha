@@ -2,12 +2,19 @@
 {
     background: cornflowerblue;
     color:aqua
-    
+}
+h1 {
+    text-align: center;
+}
+h2{
+    background-color: blueviolet ;
 }
  .imagem{
-    width: 20%;
+    width: 20%px;
+    background-image: linear - gradient  (#383d58);
 }
-{p
+p{
+
 font-size:18px
 } 
 .paragrafo1 {
@@ -19,4 +26,7 @@ font-size:18px
 .LISTA{
     display: inline-block;
 margin: 0 16px
+}
+footer{
+    background-color: black ;
 }
